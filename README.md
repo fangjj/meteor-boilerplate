@@ -10,6 +10,7 @@ keep the client bundle as small as reasonably possible.
 * Bundle size: [<250kB gZipped](https://www.ninjapixel.io/meteor-bundle-size.html) 🐭
 * Styling: [JSS](http://cssinjs.org/) 💅
 * Security: Users, roles and groups 🔐
+* Email: Simply add the SMTP property to the settings file and you can send emails. The boilerplate comes with a password reset email out of the box 📧
 
 
 
